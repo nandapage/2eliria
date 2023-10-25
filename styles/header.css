@@ -56,3 +56,10 @@
 .container__botao {
     display: none;
 }
+
+.imagem{
+    background-color: rgb(245, 238, 230);
+    width: 3%;
+    height: 10%;
+    padding: 20px;
+}
